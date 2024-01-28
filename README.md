@@ -32,6 +32,7 @@ The `config.js` file contains configuration settings, including the MongoDB conn
   - React.js
   - Axios
   - React Toastify
+  - tailwind CSS
 
 - **Backend**:
   - Node.js
